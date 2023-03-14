@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Fantv.hk" status="online" group-title="香港", 開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn" status="online" group-title="內地", CCTV1
-http://111.40.196.27/PLTV/88888888/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="online" tvg-logo="https://i.imgur.com/ChfbGqR.png" group-title="內地", CCTV1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5.cn" status="online" group-title="內地", CCTV5 -1
 http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV5.cn" status="online" group-title="內地", CCTV5 -2
